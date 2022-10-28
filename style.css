@@ -200,10 +200,10 @@ section .title::after {
 
 .home {
     display: flex;
-    background: url("images/11.jpg") no-repeat center;
+    background: url("images/bg.jpg") no-repeat center;
     height: 100vh;
     color: #fff;
-    min-height: 500px;
+    min-height: 400px;
     background-size: cover;
     background-attachment: fixed;
     font-family: 'Ubuntu', sans-serif;
